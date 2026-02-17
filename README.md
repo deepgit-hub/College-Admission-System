@@ -45,12 +45,12 @@ This project demonstrates:
 3. Compile the program:
 
    ```
-   javac practice.java
+   javac admissionsystem.java
    ```
 4. Run the program:
 
    ```
-   java practice
+   java admissionsystem.java
    ```
 
 ---
